@@ -25,9 +25,9 @@ import { Transaction } from "@mysten/sui/transactions";
 import { useAuth } from "@/contexts/auth-context";
 
 const PACKAGE_ID =
-  "0xfaf53bf5fdc0ddc7cc3bf0ae2d0fa29451f591064fe80559146c934861231a0d";
+  "0x59cf7a48329d6c4955aafc3cadbcfda09839396d3d4c51561bec7f0f28de9230";
 const ROBOT_OBJECT_ID =
-  "0x801149c17022812cdeff8cc031f822f272895d5f82a2a9f8118cd7dcaacc57d1";
+  "0xfeba93e6d71cb8548cc05258e8e32cf6c9633c40afe0434ceb6ae42393b67d6c";
 
 type Direction =
   | "forward"
